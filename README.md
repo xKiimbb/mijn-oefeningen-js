@@ -184,4 +184,4 @@ git push
 
 ---
 
-Veel succes met het werken aan de oefeningen!
+Veel succes met het werken aan de oefeningen!# Extra-opdrachten--Syntax-schrijven
